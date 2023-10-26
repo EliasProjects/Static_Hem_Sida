@@ -1,0 +1,29 @@
+@media screen and (min-width: 668px) {
+    .myvideo{
+        width: 440px;
+    }
+
+    .menu_icone{
+        display: none;
+    }
+}
+
+
+@media screen and (max-width: 668px) {
+    .nov_bar div{
+        display: none;
+    }
+
+    .menu_icone{
+        margin-top: 10px;
+    }
+    
+
+    .projects div img {
+        max-width: 100%;
+    }
+    
+    .about_me{
+        padding: 20px 20px;
+    }
+}
